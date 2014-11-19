@@ -2,7 +2,7 @@
 # coding:utf-8
 
 __version__ = '3.2.0'
-__password__ = ''
+__password__ = 'a592247119'
 __hostsdeny__ = ()  # __hostsdeny__ = ('.youtube.com', '.youku.com')
 
 import os
